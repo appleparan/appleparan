@@ -1,6 +1,6 @@
 # I'm appleparan(or skyobserver)
 
-- I’m currently studying on CSE, Yonsei University
+- I’m a Ph.D. (2021/08) of School of Mathematics and Computing in Yonsei University
 - I'm loving learning science and engineering. 
 - How to reach me: [liam.kim](https://liam.kim)
 
