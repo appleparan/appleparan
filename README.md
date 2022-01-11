@@ -1,8 +1,11 @@
 # I'm appleparan(or skyobserver)
 
-- I'm a Artificial Intelligence Researcher in LG CNS.
-- I’m a Ph.D. in Computational Science and Engineering-Mechanical/Electrical Engineering from Yonsei University,
-- In addition to artificial intelligence, I like to explore topics related to science and engineering.
+- Interests
+  * Time Series Forecasting
+  * Complex Systems
+  * Computational Fluid Dynamics
+  * System Engineering
+  * Compilers, especially on Machine Learning Compiler 
 - How to reach me: [liam.kim](https://liam.kim)
 
 ## GitHub stats
