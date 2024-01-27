@@ -1,11 +1,10 @@
 # I'm appleparan(or skyobserver)
 
 - Interests
-  * Time Series Forecasting
-  * Complex Systems
-  * Computational Fluid Dynamics
+  * Deep Learning in tabular data
+  * Large Language Model
   * System Engineering
-  * Compilers, especially on Machine Learning Compiler 
+  * Compilers
 - How to reach me: [liam.kim](https://liam.kim)
 
 ## GitHub stats
