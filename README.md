@@ -1,8 +1,8 @@
 # I'm appleparan(or skyobserver)
 
 - Interests
-  * Deep Learning in tabular data
   * Large Language Model
+  * Deep Learning in tabular data
   * System Engineering
   * Compilers
 - How to reach me: [liam.kim](https://liam.kim)
