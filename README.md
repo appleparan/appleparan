@@ -1,21 +1,31 @@
 # I'm appleparan(or skyobserver)
 
-Hi there 👋
+👨‍💻 Jongsu Kim, Ph.D. | AI Research Engineer
 
-* 👨‍💻 I'm a Senior Research Engineer at LG CNS
-* 🔍 I work on a wide range of machine learning projects across various domains.
-  * LLM
-  * Tabular data
-  * Vision (Anomaly Detection)
-* 🛠️ I'm working on setting up infrastructure for ML projects to maximize GPU utilization.
-* 🚀 My recent work involves optimizing inference for LLMs.
-* 🔍 I'm also deeply interested in exploring the following areas:
-  * MLOps/LLMOps
-  * Scalable techniques for training and inference through parallel processing
-  * Compilers
-* 📬 How to reach me: [liam.kim](https://liam.kim)
+Senior Research Engineer at LG CNS
+
+🔍 Core Expertise: GenAI & LLM
+
+* Agentic AI Inference
+* Inference Optimization
+* Data-Centric AI for training data
+
+🛠️ Focus: AI Infrastructure & Ops
+
+* GPU Orchestration: Enterprise Cluster Management & Slurm
+* Observability: Victoria Metrics, Grafana, & Langfuse
+* ML Workflows: Scalable CI/CD & Automated HPO Pipelines
+
+🚀 Technical Interests
+
+* Scalable Infra: Production-ready Agentic AI & LLMOps
+* HPC: Parallel Processing & Computational Science
+
+📬 Reach Me
+* [liam.kim](https://liam.kim/)
 
 ## GitHub stats
 
-[![appleparan's github stats](https://github-readme-stats.vercel.app/api?username=appleparan&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
