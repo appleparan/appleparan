@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jongsu Liam Kim&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 45, Total Commits  (last year) : 1482, Total PRs: 1084, Total Issues: 162, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 45, Total Commits  (last year) : 1493, Total PRs: 1109, Total Issues: 162, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.8281540215144;
+        stroke-dashoffset: 68.84733030697852;
       }
     }
   
